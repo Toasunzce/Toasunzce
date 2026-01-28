@@ -4,7 +4,8 @@ Python • PyTorch • Classical ML • LLM systems
 
 ## Core Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,linux,git,huggingface,docker,mlflow&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,linux,git,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=huggingface,mlflow&perline=6" />
 
 **Data & ML tooling:** Pandas, NumPy, Matplotlib, Seaborn  
 **Classical ML:** Gradient Boosting (XGBoost / LightGBM / CatBoost)  
