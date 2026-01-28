@@ -13,7 +13,7 @@ Python • PyTorch • Classical ML • LLM systems
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-**Data & ML tooling:** Pandas, NumPy, Matplotlib, Seaborn  
+**Data & ML tooling:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels
 **Classical ML:** Gradient Boosting (XGBoost / LightGBM / CatBoost)  
 **LLM systems:** Transformers, Agents, RAG
 
