@@ -1,11 +1,15 @@
 ## ML Engineer
-
 Python • PyTorch • Classical ML • LLM systems
 
 ## Core Stack
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,linux,git,docker&perline=6" />
-<img src="https://skillicons.dev/icons?i=huggingface,mlflow&perline=6" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
 
 **Data & ML tooling:** Pandas, NumPy, Matplotlib, Seaborn  
 **Classical ML:** Gradient Boosting (XGBoost / LightGBM / CatBoost)  
