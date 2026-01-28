@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Toasunzce
+## ML Engineer
 
+Python • PyTorch • Classical ML • LLM systems
 
-<!---
-Toasunzce/Toasunzce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Core ML Stack
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,linux,git&perline=6" />
+
+## Selected Projects
+- Computer vision: constellation recognition
+- End-to-end ML pipeline (carsharing use case)
