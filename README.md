@@ -1,4 +1,4 @@
-## ML Engineer
+## ML enthusiast
 Python • PyTorch • Classical ML • LLM systems
 
 ## Core Stack
