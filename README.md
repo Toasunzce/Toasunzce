@@ -4,7 +4,7 @@ Python • PyTorch • Classical ML • Deep Learning • LLM systems
 
 ## Selected Projects
 - End-to-end ML pipeline for carsharing data
-- Semantic Segmentation cloud removal pipeline
+- Semantic segmentation cloud removal pipeline
 - Constellation recognition via geometric matching  
 - LLM-powered Telegram bot with RAG and web parsing  
 
