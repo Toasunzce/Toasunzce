@@ -1,17 +1,12 @@
 ## ML enthusiast
-Python • PyTorch • Classical ML • LLM systems
+Python • PyTorch • Classical ML • Deep Learning • LLM systems
 
-## Core Stack
-
-**Data & ML tooling:** Pandas, NumPy, Matplotlib, Seaborn, SciPy\
-**Classical ML:** Scikit-Learn, Statsmodels, Gradient Boosting (XGBoost / LightGBM / CatBoost)\
-**LLM systems:** Transformers, Agents, RAG\
-**Other:** Git, Linux, Docker
 
 ## Selected Projects
-- Computer vision: constellation recognition via geometric matching  
-- LLM-powered Telegram bot with RAG and web parsing  
 - End-to-end ML pipeline for carsharing data
+- Semantic Segmentation cloud removal pipeline
+- Constellation recognition via geometric matching  
+- LLM-powered Telegram bot with RAG and web parsing  
 
 ## Contact me
 <p align="left">
