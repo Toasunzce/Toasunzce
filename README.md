@@ -1,5 +1,5 @@
 ## ML enthusiast
-Python • PyTorch • Classical ML • Deep Learning • LLM systems
+Python • Backend • Classical ML • Deep Learning • LLM systems
 
 ## Contact me
 <p align="left">
